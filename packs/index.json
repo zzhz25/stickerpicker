@@ -1,9 +1,7 @@
 {
   "packs": [
-    "GoldfishKaren.json",
-    "catear_eyepatch_girl.json",
-    "nachonekodayo.json",
-    "LINE_Light_Blue_Girl.json"
+    "LINE_Light_Blue_Girl.json",
+    "GoldfishKaren.json"
   ],
   "homeserver_url": "https://matrix.zmi.im"
 }
